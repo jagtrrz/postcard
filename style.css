@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    font-family: 'Philosopher', sans-serif;
+ 
+}
+
+p {
+    font-size: 1.4em; 
+}
+
+.contenedor {
+    height: 500px;
+    width: 700px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 20px; 
+    background-color: white;
+}
+
+header {
+    height: 100px;
+    width: 680px;
+    padding: 15px;  
+    background-color: white;
+}
+
+.titulo {
+    height: 90px; 
+    width: 500px;
+    float: left;
+    background-color: white;
+}
+
+.logo {
+    height: 60px; 
+    width: 150px;
+    padding: 15px; 
+    float: right;
+    background: url(https://assets.breatheco.de/apis/img/icon/4geeks.png) no-repeat center;
+    background-size: contain; 
+}
+
+section {
+    height: 250px;
+    width: 680px;
+    padding: 15px;  
+    background-color: white;
+}
+
+article {
+    height: 250px; 
+    width: 310px;
+    float: left;
+    background-color: white;
+}
+
+form {
+    margin-top: 20px;
+    height: 250px; 
+    width: 320px;
+    float: right;
+    background-color: white;
+}
+
+footer {
+    height: 55px;
+    width: 720px;
+    background-color: white;
+}
+
+input {
+    font-size: 1.4em;
+    font-family: 'Philosopher', sans-serif;
+    border: none; 
+    border-bottom: 2px solid grey;
+    padding: 7px;
+}
+
+i {
+    color: #148fcb;
+
+} 
+
+button {
+    margin-left: 260px;
+    position: center; 
+    font-family: 'Philosopher', sans-serif;
+    font-size: 1.4em;
+    border-bottom: 3px solid grey;
+}
+
